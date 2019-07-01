@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let store = { neighborhoods: [], meals: [], customers: [], deliveries: [] };
 let neighborhoodId = 0;
 let mealId = 0;
@@ -118,3 +119,14 @@ class Delivery {
         }.bind(this));
     }
 }
+=======
+
+let store = { neighborhoods: [], meals: [], customers: [], deliveries: [] };
+
+
+
+
+
+
+
+>>>>>>> d37119c11cf0eaa576c309548ebe9059dc7ebf9f
